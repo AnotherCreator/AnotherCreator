@@ -1,16 +1,25 @@
-### Hi there 👋
+<!--- Main Heading --->
+<h2>Hi, my name is Josh!</h2>
 
-<!--
-**AnotherCreator/AnotherCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- Short Links --->
+- Working on a Bachelor's at <a href="https://www.iit.edu/">Illinois Institute of Technology</a>
+- Majoring in <a href="https://www.iit.edu/itm">Information Technology and Management</a>
+- Minoring in <a href="https://www.iit.edu/academics/programs/software-engineering-minor">Software Engineering</a>
+- Pursuing a career in Software Development / Engineering
+- Current GPA: 3.64
+- Expected Graduation: December 2024
 
-Here are some ideas to get you started:
+<!--- About Me! --->
+<h2>About Me!</h2>
+<p>
+    I am currently an Illinois Tech student pursuing internships and entry-level positions in Backend Software Development / Engineering. I enjoy building
+projects and tackling the various modern-day problems presented to me during my studies and at my work place environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Despite majoring in IT, I have a strong passion for programming and love navigating problems to find their solutions.
+</p>
+
+<!--- Skills --->
+## My Skills!
+- Backend: Java, Python, C
+- Frontend: HTML, CSS, Javascript
+- Databases: MySQL, PostgreSQL
