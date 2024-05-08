@@ -2,8 +2,8 @@
 <h2>Hi, my name is Josh!</h2>
 
 <!--- Short Links --->
-- Working on a Bachelor's at <a href="https://www.iit.edu/">Illinois Institute of Technology</a>
-- Majoring in <a href="https://www.iit.edu/itm">Information Technology and Management</a>
+- Pursuing a Bachelor's at <a href="https://www.iit.edu/">Illinois Institute of Technology</a>
+- Majoring in <a href="https://www.iit.edu/itm">Information Technology and Management</a> with a specialization in <a href="https://www.iit.edu/itm](https://www.iit.edu/itm/programs/specializations">Software Development</a>
 - Pursuing a career in Software Development / Engineering, IT
 - Current GPA: 3.57
 - Expected Graduation: August 2024
